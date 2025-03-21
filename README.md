@@ -62,6 +62,13 @@ Source: https://twitter.com/blvdmitry/status/1705893688910483677
 https://github.com/bufgix/my-react-native-playground/assets/22038798/7ed5d310-2bfa-450c-8f1a-d3811b4fcd11
 
 
+### BMI Calculator Gauge Chart
+
+Source: https://twitter.com/bufgix_/status/1629935271255973889
+
+https://github.com/bufgix/my-react-native-playground/assets/22038798/6564b4d8-c5b9-4a19-8297-55abf14250ed
+
+
 
 
 ## How to run
